@@ -1,6 +1,6 @@
 Name:		texlive-childdoc
 Version:	49543
-Release:	1
+Release:	2
 Summary:	Directly compile \include'd child documents
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/childdoc
