@@ -3,7 +3,7 @@ Version:	49543
 Release:	2
 Summary:	Directly compile \include'd child documents
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/childdoc
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/childdoc
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/childdoc.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/childdoc.doc.r%{version}.tar.xz
